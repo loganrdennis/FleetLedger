@@ -6,12 +6,12 @@
 
 ### Key Features
 
--**Invoicing system** tailored for freight and mileage billing
--**Expense tracking** for fuel, maintenance, tolls, etc.
--**Driver payroll** generation with support for bonuses, mileage rates, overtime
--**PDF export** of invoices and pay stubs
--**Self-hosted via Docker, PostgreSQL, and FastAPI
--**Secure authentication** with JWT
+- **Invoicing system** tailored for freight and mileage billing
+- **Expense tracking** for fuel, maintenance, tolls, etc.
+- **Driver payroll** generation with support for bonuses, mileage rates, overtime
+- **PDF export** of invoices and pay stubs
+- **Self-hosted via Docker, PostgreSQL, and FastAPI
+- **Secure authentication** with JWT
 - Built with **React + Tailwind** for a responsive frontend
 
   ---
