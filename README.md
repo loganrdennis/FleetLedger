@@ -1,4 +1,4 @@
-# FleetLedger
+# Odometra
 
 **A self-hosted accounting system for small trucking companies.**  Custom-built to manage invoicing, payroll, expenses, and financial reporting - with full local control, no SaaS fees, and zero vendor lock-in.
 
@@ -37,7 +37,7 @@
 
   ### Project Scope
 
-  FleetLedger is a purpose-built project designed to replace SaaS tools like Quickbooks in a niche use case - owner-operated trucking companies.  It is:
+  Odometra is a purpose-built project designed to replace SaaS tools like Quickbooks in a niche use case - owner-operated trucking companies.  It is:
 
   - Built from scratch withouth third-party SaaS integrations
   - Designed to demonstrate full-stack infrastructure skills
