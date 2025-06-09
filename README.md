@@ -39,7 +39,7 @@
 
   Odometra is a purpose-built project designed to replace SaaS tools like Quickbooks in a niche use case - owner-operated trucking companies.  It is:
 
-  - Built from scratch withouth third-party SaaS integrations
+  - Built from scratch without third-party SaaS integrations
   - Designed to demonstrate full-stack infrastructure skills
   - A real-world use case from a real business
   - Fully documented, versioned, and tested for production-readiness
@@ -48,7 +48,7 @@
 
   ### License
 
-  This codebase is made publicly available for educational and portfolio review purposes only.  No license is granted for use, modification, redistribution, or comercial deployment.
+  This codebase is made publicly available for educational and portfolio review purposes only.  No license is granted for use, modification, redistribution, or commercial deployment.
 
   **© 2025 Logan R. Dennis.  All rights reserved.**
 
