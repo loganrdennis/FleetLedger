@@ -42,7 +42,7 @@
   - Built from scratch withouth third-party SaaS integrations
   - Designed to demonstrate full-stack infrastructure skills
   - A real-world use case from a real business
-  - Full documented, versioned, and tested for production-readiness
+  - Fully documented, versioned, and tested for production-readiness
  
   ---
 
