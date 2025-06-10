@@ -31,7 +31,7 @@
   | Frontend | React, Tailwind CSS |
   | Database | PostgreSQL |
   | Auth | JWT, bcrypt |
-  | Deployment | Docker, NGINX, Let's Encrypt |
+  | Deployment | Docker, NGINX, Proxmox, Let's Encrypt |
 
   ---
 
