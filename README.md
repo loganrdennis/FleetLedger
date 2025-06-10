@@ -124,4 +124,11 @@
   - [ ] Fleet performance dashboard
   - [ ] Print-friendly reports
 
-  
+  ---
+
+  ## 📘 Documentation
+
+- 📦 [Deployment details](docs/deployment.md)
+- 🔐 [Security model](docs/security.md) *(coming soon)*
+- 🧾 [Tax logic overview](docs/payroll.md) *(coming soon)*
+
