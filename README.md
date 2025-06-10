@@ -110,10 +110,11 @@
   ---
 
   ### Hosting and Deployment
-  - [ ] Docker Compose config
-  - [ ] NGINX reverse proxy + HTTPS (Let's Encrypt)
-  - [ ] Automated database backups
-  - [ ] Admin-only route protection + dashboard
+  - [ ] Docker Compose config - App stack (backend, database, services) containerized using Docker Compose
+  - [ ] Deployment to private Proxmox environment – Self-hosted on a Proxmox VE-managed machine (via VM or LXC)
+  - [ ] NGINX reverse proxy + HTTPS (Let's Encrypt) – Secure traffic routing with auto-renewing SSL
+  - [ ] Automated database backups – Scheduled PostgreSQL dumps and off-device archive via cron and rsync
+  - [ ] Admin-only route protection + dashboard – Backend route locking, future dashboard for admin controls
 
   ---
 
