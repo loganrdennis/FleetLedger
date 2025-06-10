@@ -131,4 +131,9 @@
 - 📦 [Deployment details](docs/deployment.md)
 - 🔐 [Security model](docs/security.md) *(coming soon)*
 - 🧾 [Tax logic overview](docs/payroll.md) *(coming soon)*
+- 📦 [`docker-compose.yml`](./docker-compose.yml) – defines backend stack (Postgres, FastAPI, pgAdmin)
+- 🐍 [`backend/main.py`](./backend/main.py) – simple FastAPI backend entrypoint
+- 📘 [`docs/deployment.md`](./docs/deployment.md) – full deployment architecture and instructions
+- 🔒 `.env` – local config file (not committed for security)
+
 
